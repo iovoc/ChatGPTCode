@@ -1,4 +1,4 @@
-## 全球主机论坛(hostloc.com)签到脚本
+## 全球主机交流论坛(hostloc.com)签到脚本
 ### 生成的关键词
 
 > ```markdown
